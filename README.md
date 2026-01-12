@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I’m Aitaj 👋  
 
-<!--
-**aitajghrmn/aitajghrmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student and beginner software engineer.  
+Currently learning Front-End development (HTML, CSS, JavaScript).  
 
-Here are some ideas to get you started:
+🌱 What I’m doing now:
+- Learning web development step by step  
+- Building small projects  
+- Improving my English and technical skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Goals:
+- Become a strong software engineer  
+- Build a real portfolio  
+- Get an internship or junior position  

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aitaj 👋</h1>
+<h1 align="center">Hi, I'm aitaj 👋</h1>
 <p align="center">Software Engineering student from Azerbaijan 🇦🇿 — building full-stack skills across frontend and backend</p>
 
 <br>

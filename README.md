@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aitaj 👋</h1>
-<p align="center">Software Engineering student from Azerbaijan 🇦🇿 — building full-stack skills across frontend and backend</p>
+<p align="center">Software Engineering student from Azerbaijan  — building full-stack skills across frontend and backend</p>
 
 <br>
 

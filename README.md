@@ -3,7 +3,7 @@
 
 <br>
 
-### About
+### About :
 
 - 🌐 Frontend: **HTML, CSS, JavaScript, React**
 - 💻 Backend: learning **Python/Flask** and **C#**

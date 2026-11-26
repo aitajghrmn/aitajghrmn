@@ -2,4 +2,4 @@
 
 🎓 Software Engineering Student from Azerbaijan.
 
-💻 Interested in Web Development and Software Engineering.
+💻 Interested in Web Development and Software Engineering...
